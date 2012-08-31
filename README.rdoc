@@ -1,0 +1,4 @@
+= delegatron
+
+Lightweight alternative to the delegation mixin included with ruby (Forwardable),
+allows forwarding of all unknown methods without prior specification.
